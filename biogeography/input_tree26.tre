@@ -1,0 +1,51 @@
+#NEXUS
+[R-package APE, Wed May 20 14:58:53 2026]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 40;
+	TAXLABELS
+		Osmundastrum_cinnamomeum
+		Plenasium_vachellii
+		Osmunda_regalis
+		Osmunda_lancea
+		Plenasium_javanica
+		Osmunda_japonica
+		Claytosmunda_claytoniana
+		Plenasium_banksiifolia
+		Leptopteris_hymenophylloides
+		Leptopteris_wilkesiana
+		Leptopteris_fraseri
+		Todea_barbara
+		Todea_papuana
+		Todea_amissa
+		Todites_nanjingensis
+		Todites_neiridaniensis
+		Todites_fastuosus
+		Todites_cacereii
+		Todites_lobatus
+		Todites_princeps
+		Todites_denticulatus
+		Todites_muelleri
+		Todites_falciformis
+		Todites_pattinsoniorum
+		Todites_williamsoni
+		Todites_chilensis
+		Todites_goeppertianus
+		Todites_recurvatus
+		Todites_hartzi
+		Todites_baldonii
+		Osmundopsis_zunigai
+		Osmundopsis_sturii
+		Osmundopsis_rafaelii
+		Osmundopsis_nipponica
+		Osmundopsis_hillii
+		Osmundopsis_plectrophora
+		Osmundopsis_botryoides
+		Osmundopsis_petiolaris
+		Osmundopsis_racemosus
+		Cacumen_expansa
+	;
+END;
+BEGIN TREES;
+	TREE * UNTITLED = [&R] (Osmundastrum_cinnamomeum:299.8981,((((((((Plenasium_vachellii:5.599892,Plenasium_banksiifolia:5.599892):3.865037,Plenasium_javanica:9.464929):114.6179,(Osmunda_regalis:24.36807,(Osmunda_lancea:2.909032,Osmunda_japonica:2.909032):21.45904):99.71475):28.82099,Claytosmunda_claytoniana:152.9038):47.1489,Cacumen_expansa:92.76358):60.63172,(((Osmundopsis_sturii:30.24189,(Osmundopsis_rafaelii:14.20012,(Osmundopsis_nipponica:5.328182,Osmundopsis_hillii:20.75689):6.834786):8.770447):14.01513,Osmundopsis_plectrophora:19.68869):26.1306,((Osmundopsis_botryoides:7.934289,Osmundopsis_racemosus:7.594612):4.595003,Osmundopsis_petiolaris:12.11327):5.13898):11.27155):14.59132,Osmundopsis_zunigai:43.40205):22.97732,(((((((Leptopteris_hymenophylloides:21.53891,Leptopteris_wilkesiana:21.53891):8.631736,Leptopteris_fraseri:30.17064):104.8589,((Todea_barbara:12.36315,Todea_papuana:12.36315):45.07817,Todea_amissa:5.16623):77.58821):83.98749,(Todites_princeps:25.51032,Todites_denticulatus:16.30952):5.887532):43.49347,(((((Todites_nanjingensis:14.40782,Todites_neiridaniensis:5.873124):14.97257,Todites_fastuosus:20.73118):15.81973,Todites_goeppertianus:21.47151):3.49797,Todites_falciformis:70.25115):25.21343,((Todites_recurvatus:11.43606,Todites_hartzi:11.44099):22.80862,Todites_baldonii:26.44429):16.04921):8.781311):17.75781,((Todites_cacereii:40.66907,Todites_chilensis:30.48414):36.02458,(Todites_lobatus:7.784285,(Todites_pattinsoniorum:4.932138,Todites_williamsoni:77.229):15.33644):5.907708):10.20938):9.242783,Todites_muelleri:11.79966):8.741981):1.645076);
+END;
